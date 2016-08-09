@@ -1,7 +1,7 @@
 name: Responsive One
 favicon: null
-layout_spectrum: 0.5075061810202897
-typography_spectrum: 0.17757237795740366
+layout_spectrum: 0
+typography_spectrum: 0.74406
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#d2d1d1'
     - '#858585'
     - '#fdfdfd'
-  brandStrength: 0.6641239139717072
-  lightness: 0.19618241116404533
-  saturation: 0.34869562229141593
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0.004052622709423304
 purpose: []
